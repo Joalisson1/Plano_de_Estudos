@@ -11,3 +11,9 @@ Voltado para alunos de nível iniciantes que desejam ingressar em programação 
 **Nível Iniciante**
 
 - Introdução a plataforma Java - [Acesse o curso](https://web.dio.me/course/introducao-a-plataforma-java/learning/cdc0426c-9371-4af8-aaf0-23fffca6218f?back=/track/potencia-tech-powered-ifood-java-beginners&tab=path&moduleId=undefined)
+
+Tasks para continuar evoluindo:
+
+- [x]  Começar a estudar Java
+- [ ]  Assita ao curso
+- [ ]  Fazer projetos

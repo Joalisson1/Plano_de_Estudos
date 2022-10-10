@@ -1,6 +1,6 @@
-# Plano_de_Estudos
+# Plano de Estudos
 
-##Criando um plano de estudos em Java Com GitHub
+## Criando um plano de estudos em Java Com GitHub
 
 Voltado para alunos de nível iniciantes que desejam ingressar em programação em Java.
 
